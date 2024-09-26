@@ -17,6 +17,7 @@
                     <li><a href="{{route('produto.show')}}">Home</a></li>
                     <li><a href="">Sobre nós</a></li>
                     <li><a href="">Contato</a></li>
+                    <li>Pintobola</li>
                 </ul>
             </nav>
         </header>
